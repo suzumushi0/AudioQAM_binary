@@ -13,6 +13,7 @@ AudioQAM is provided as a VST 3 plug-in for digital audio workstations and suppo
 https://suzumushi0.hatenablog.com/entry/AQ/AQ_EN
 
 AudioQAM はオーディオ入力の位相と振幅を同時に変調し，想定外のサウンドを生成する．
+
 直交振幅変調 (Quadrature Amplitude Modulation: QAM) はディジタル通信において広く使用されている．AudioQAM はディジタル直交振幅変調器から派生したもので，オーディオ処理用にリファインされている．AudioQAM は搬送波として正弦波だけでなく，三角波，矩形波，鋸歯状波をサポートしている．
 
 搬送波が正弦波の場合，AudioQAM は位相シフトネットワーク (phase shift network) と本質的に等価となり，既存のボード周波数シフタ (Bode frequency shifter) として動作する．その他の搬送波の場合，出力の周波数スペクトルは，搬送波とオーディオ入力のスペクトルの畳み込みとなり，未知のサウンドを生成する．
