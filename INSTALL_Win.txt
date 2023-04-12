@@ -1,0 +1,32 @@
+Installation
+
+(1) Unzip the file. Then you will see the following two FOLDERS.
+  AudioQAM.vst	contains AudioQAM plug-in.
+  suzumushi	contains a few VST preset files used by demonstration video.
+
+(2) Copy AudioQAM.vst3 to C:\Program Files\Common Files\VST3
+
+Note: "AudioQAM.vst3" is a FOLDER in the unzipped file.
+It is NOT "AudioQAM.vst3\Contents\x86_64-win\AudioQAM.vst3".
+
+(3) [Option] Copy suzumushi to C:\Users\your_account_name\Documents\VST3 Presets
+
+Enjoy.
+
+
+インストール方法
+
+(1) ファイルを解凍すると，以下の 2 つの「フォルダ」がある．
+  AudioQAM.vst	AudioQAM プラグイン
+  suzumushi	デモビデオで使用した VST preset ファイル
+
+(2) AudioQAM.vst3 を C:\Program Files\Common Files\VST3 にコピー
+
+Note: "AudioQAM.vst3" は解凍したファイルにある「フォルダ」です．
+"AudioQAM.vst3\Contents\x86_64-win\AudioQAM.vst3" ではありません．
+
+(3) [オプション] suzumushi を C:\Users\your_account_name\Documents\VST3 Presets にコピ
+ー
+
+Enjoy.
+
